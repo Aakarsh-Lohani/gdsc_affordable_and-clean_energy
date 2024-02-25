@@ -1,5 +1,7 @@
               Affordable and Clean Energy
-              
+
+LIVE AT : https://aakarsh-lohani.github.io/gdsc_affordable_and-clean_energy/
+
 This project is a website created for GDSC (Google Developers Solutions Challenge) dedicated to promoting the use of solar energy. 
 It provides information about the benefits of solar energy and offers solar panels for sale.
 
@@ -13,5 +15,5 @@ HTML5 , CSS3
 Setup :
 To run this project, you will need a modern browser that supports HTML5 and CSS3. Open the HTML file in your browser to view the website.
 
-Contrributers :
+Contributers :
  -- AAKARSH LOHANI ( https://www.linkedin.com/in/aakarsh-lohani-7795b726a )
