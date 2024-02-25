@@ -18,8 +18,12 @@ To run this project, you will need a modern browser that supports HTML5 and CSS3
 The website is also live on GitHub Pages and link is at the beginning of this Readme file
 
 Contributers :
+ -- SWEETY PANDEY ( https://www.linkedin.com/in/sweety-pandey-11401722b/ )
+   -- Web Developer
+   
  -- AAKARSH LOHANI ( https://www.linkedin.com/in/aakarsh-lohani-7795b726a )
    -- Artificial Intelligence Enthusiast and Web Developer
    
  -- AKASH KUMAR ( https://www.linkedin.com/in/akashkumar-ve?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
    -- Graphics Designer 
+
