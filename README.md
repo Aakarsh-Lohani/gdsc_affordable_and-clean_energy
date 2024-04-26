@@ -1,5 +1,7 @@
 **UPDATE** : This Project has been significantly updated as "Personal Project" to use Microsort Azure Services, it includes AI Chatbot known as Solar Bot and some other new features, Please Visit : 
-GitHub Repo (Updated) : https://github.com/Aakarsh-Lohani/FRT_Solar_Power 
+
+GitHub Repo (Updated) : https://github.com/Aakarsh-Lohani/FRT_Solar_Power
+
 Updated Project Live At : https://solarfrt.azurewebsites.net/
               
               
